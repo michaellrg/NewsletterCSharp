@@ -1,0 +1,12 @@
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\bin\Debug\Newsletter.exe.config
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\bin\Debug\Newsletter.exe
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\bin\Debug\Newsletter.pdb
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\bin\Debug\Newtonsoft.Json.dll
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\bin\Debug\SendGrid.CSharp.HTTP.Client.dll
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\bin\Debug\SendGrid.dll
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\bin\Debug\Newtonsoft.Json.xml
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\obj\Debug\Newsletter.csprojResolveAssemblyReference.cache
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\obj\Debug\Newsletter.exe
+c:\users\desktop\documents\visual studio 2015\Projects\Newsletter\Newsletter\obj\Debug\Newsletter.pdb
